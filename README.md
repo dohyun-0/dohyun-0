@@ -1,17 +1,17 @@
 ## 도현 (Dohyun.0)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                1 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌃 Evening                2 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-🌙 Night                  3 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌞 Morning                3 commits           ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌆 Daytime                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌃 Evening                3 commits           ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌙 Night                  3 commits           ████████░░░░░░░░░░░░░░░░░   30.00 % 
 ```
 
 
@@ -35,5 +35,5 @@ Windows                  7 hrs 51 mins       ███████████�
 ```
 
 
- Last Updated on 24/02/2025 18:45:55 UTC
+ Last Updated on 25/02/2025 14:43:44 UTC
 <!--END_SECTION:waka-->
