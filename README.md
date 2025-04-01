@@ -1,7 +1,7 @@
 ## 도현 (Dohyun.0)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun-0&theme=dark&show_icons=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20thousand%20lines%20of%20code-blue)
 
@@ -21,14 +21,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 21 mins       ████████████████████████░   96.18 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               3 hrs 41 mins       ████████████████████████░   96.52 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
